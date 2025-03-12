@@ -30,6 +30,7 @@ public class Calculator {
 
   public double nothing(double number1) {
     return number1; //aaa
+    int aaa = 777;
   }
 
   /**
