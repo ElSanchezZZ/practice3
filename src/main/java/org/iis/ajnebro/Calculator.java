@@ -28,9 +28,9 @@ public class Calculator {
     return number1 - number2;
   }
 
-  public double nothing(double number1) {
-    return number1; //aaa
-    int aaa = 777;
+  public double nothing(double num) {
+    return num; //aaa
+    int aaa = 29;
   }
 
   /**
